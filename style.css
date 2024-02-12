@@ -1,0 +1,20 @@
+.box {
+    height: 900px;
+    width: 900px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+    background-color: black;
+    font-family: Libre+Baskerville;
+    color: white;
+    text-align: center;
+    }
+.box1 {
+    font-family: Libre+Baskerville;
+    color: white;
+    text-align: center;
+    font-size: 20px; 
+}
+.box2 {
+    border: 5px solid white;
+}
